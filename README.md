@@ -3,6 +3,7 @@
 ## I. Mine
 * PEXTAX SP(ID: 4103260) - 55f1.8
 * Canon EOS 760
+* FUJIFILM instax mini 12
 * FUJIFILM QuickSnap
 * Kodak FunSaver
 * B&B QuickSnap
