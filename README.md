@@ -2,7 +2,7 @@
 
 ## I. Mine
 * PEXTAX SP(ID: 4103260) - 55f1.8
-* FUJI Zoom Cardia 2000 Date
+* FUJI Zoom Cardia 2000 Date (Fuji FZ-2000 Zoom)
 * Canon EOS 760
 * FUJIFILM instax mini 12
 * FUJIFILM QuickSnap
